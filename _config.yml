@@ -1,11 +1,11 @@
 # Site
-title:              rangefindr
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              想要这个
+bio:                '物我两不忘'
+description:        "拍照 生活"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png' # made by Freepik
-background:         # 'assets/img/placeholder-big.jpg'
+background:         'assets/img/bg-img.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taikwai.github.io
@@ -38,19 +38,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+# twitter:            username
+# facebook:           username
+# github-url:         taikwai
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+# instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
