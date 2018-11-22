@@ -15,5 +15,9 @@ comments: false
 -- 大贵
 
 公号： 想要这个
+
+![](/assets/img/qr.jpg)
+
 ins： [大贵](https://www.instagram.com/dahguir/)
+
 flickr： [luei](https://www.flickr.com/photos/b3fore/)
