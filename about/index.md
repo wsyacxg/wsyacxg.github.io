@@ -18,6 +18,6 @@ comments: false
 
 ![](/assets/img/qr.jpg)
 
-ins： [大贵](https://www.instagram.com/dahguir/)
+ins： [大贵](https://www.instagram.com/doiquy77/)
 
-flickr： [luei](https://www.flickr.com/photos/b3fore/)
+<!-- flickr： [luei](https://www.flickr.com/photos/b3fore/) -->
