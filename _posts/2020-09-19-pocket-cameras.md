@@ -4,7 +4,7 @@ title: "Ricoh GR3 vs. Fujifilm X100V"
 date: 2020-10-01
 excerpt: "大底随身要选谁"
 tags: [gear, digital camera, Fujifilm]
-feature: /assets/img/2010_elan/elan-5.jpg
+feature: https://i.loli.net/2020/10/02/mHnQPApjzq6rOwE.jpg
 comments: ture
 ---
 (Initially posted [here](https://post.smzdm.com/p/aoozelg6/) on 2020-09-10)
@@ -41,45 +41,12 @@ x100v的优点是全面性。到第五代的x100v拥有可靠的对焦，拍摄�
 
 记得防晒。
 
-![](https://i.loli.net/2020/09/10/2OMPlpdciqbZRk8.jpg)
-![](https://i.loli.net/2020/09/10/Avn1JZ6K3TUpYXq.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/NkUMXsItT4FeD6Q.jpg)
-![](https://i.loli.net/2020/09/10/4BhEvXr5psjH28A.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/Ig5waomN7UsHz9F.jpg)
-![](https://i.loli.net/2020/09/10/jbM1y629RJrpEaP.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/mG4VrBjn9Y5MlW1.jpg)
-![](https://i.loli.net/2020/09/10/KoyUjvut7PZdXDc.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/3RzsMrLGfWVdBSA.jpg)
-![](https://i.loli.net/2020/09/10/sq19BKVANTXHdpC.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/TeGVkSlEfnRvLz3.jpg)
-![](https://i.loli.net/2020/09/10/pqMZcXYiSfGJk4v.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/fTltDAjZJ4Ch6nu.jpg)
-![](https://i.loli.net/2020/09/10/kRq1oSzYQHKbg3r.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/45bWRBGXqNi6EPj.jpg)
-![](https://i.loli.net/2020/09/10/cSX5Cva7jGZ3VRx.jpg)
-
----
-
-![](https://i.loli.net/2020/09/10/1gv3cDWb9mLFVON.jpg)
-![](https://i.loli.net/2020/09/10/McjYyTagWVQvNBm.jpg)
+![](https://i.loli.net/2020/10/02/lJ6tqcQNR9mhowz.jpg)
+![](https://i.loli.net/2020/10/02/m8Z9ELuqtc52yjo.jpg)
+![](https://i.loli.net/2020/10/02/nzLyrH8lNKIk1cY.jpg)
+![](https://i.loli.net/2020/10/02/edBT5CWc1AVqDbO.jpg)
+![](https://i.loli.net/2020/10/02/vf9Q2oYk1NJeF7s.jpg)
+![](https://i.loli.net/2020/10/02/TzLI7Orx4EA5BtX.jpg)
+![](https://i.loli.net/2020/10/02/XUvtxnYcrFKqJwm.jpg)
+![](https://i.loli.net/2020/10/02/DnZeBAsEc4KUV2q.jpg)
+![](https://i.loli.net/2020/10/02/qXwxZGkIshEKzQm.jpg)
