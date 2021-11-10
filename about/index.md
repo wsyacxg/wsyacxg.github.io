@@ -18,11 +18,11 @@ comments: false
 
 ![](/assets/img/qr.jpg)
 
-ins： [大贵](https://www.instagram.com/doiquy77/)
+<!-- ins： [大贵](https://www.instagram.com/doiquy77/) -->
 
 ---
 
-##### 20200311
+<!-- ##### 20200311
 
 今天是2020年3月11日，距离纽约州宣布紧急状态过去四天。酝酿数天之后，今天学校正式宣布春季学期自春假后全部改为网课，细则未定。从今天开始尝试记录见闻和想法。
 
@@ -113,5 +113,5 @@ ins： [大贵](https://www.instagram.com/doiquy77/)
 
 4. 想吃pizza。
 
-春分过去了<br/>在偶然与巧合间<br/>白昼比夜长
+春分过去了<br/>在偶然与巧合间<br/>白昼比夜长 -->
 
