@@ -2,7 +2,7 @@
 layout: post
 title: "Leica Welt"
 date: 2022-11-17
-excerpt: 说点别的。
+excerpt: 
 tags: [Leica, other]
 feature: https://s2.loli.net/2022/11/17/4ORkrImWuxVheC3.jpg
 comments: ture
