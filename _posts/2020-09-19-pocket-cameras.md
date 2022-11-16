@@ -3,7 +3,7 @@ layout: post
 title: "Ricoh GR3 vs. Fujifilm X100V"
 date: 2020-10-01
 excerpt: "大底随身要选谁"
-tags: [gear, digital camera, Fujifilm]
+tags: [camera, Fujifilm, RicohGR]
 feature: https://i.loli.net/2020/10/02/mHnQPApjzq6rOwE.jpg
 comments: ture
 ---

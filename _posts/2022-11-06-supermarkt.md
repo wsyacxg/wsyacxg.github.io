@@ -3,7 +3,7 @@ layout: post
 title: "Ich liebe Supermärkte"
 date: 2022-11-06
 excerpt: 说点别的。
-tags: [lens]
+tags: [other]
 feature: https://s2.loli.net/2022/11/07/3cvsHuEaWXgQJMz.jpg
 comments: ture
 ---

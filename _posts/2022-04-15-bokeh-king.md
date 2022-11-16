@@ -3,7 +3,7 @@ layout: post
 title: "Leica Summicron-M (IV) 35mm 1:2"
 date: 2022-04-15
 excerpt: 
-tags: [camera]
+tags: [lens, Leica, 35mm]
 feature: https://s2.loli.net/2022/04/16/wmZzhc3F1rGRQLb.jpg
 comments: ture
 ---
