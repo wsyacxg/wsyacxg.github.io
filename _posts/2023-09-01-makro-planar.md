@@ -2,7 +2,7 @@
 layout: post
 title: "Zeiss Makro-Planar T* 50mm f/2 ZF.2"
 date: 2023-09-01
-excerpt: 看起来是断了一颗螺丝，要修要等到下次回国。
+excerpt: 这次我又买了一个标头。
 tags: [lens, Zeiss, 50mm]
 feature: https://s1.ax1x.com/2023/09/01/pPBP2o4.jpg
 comments: ture
