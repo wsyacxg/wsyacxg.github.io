@@ -36,11 +36,7 @@ comments: ture
 <br>
 ![b49c8411f5454f2af4a58036a675743f.jpg](https://s2.loli.net/2024/07/23/8q2gCvzfJsENaPL.jpg)
 <br>
-![d579e188ef2f06eceeb412019eff1beb.jpg](https://s2.loli.net/2024/07/23/v8Z4OXcRg7N9ESl.jpg)
-<br>
 ![96686bdb98031d1977533a49984073a6.jpg](https://s2.loli.net/2024/07/23/JbKFMZuL7RlmqNa.jpg)
-<br>
-![d23909fa8cc796bb55827ddc4370af52.jpg](https://s2.loli.net/2024/07/23/xqp6szc53rl1WQB.jpg)
 <br>
 ![5741a2e4c45b56dd50e5545c9c846552.jpg](https://s2.loli.net/2024/07/23/bIwfGn4L9d7p8Ck.jpg)
 <br>
