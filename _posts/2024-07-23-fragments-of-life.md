@@ -4,7 +4,7 @@ title: "fragments of life"
 date: 2024-07-23
 excerpt: 树影摇曳洒下稀碎的碎片
 tags: [camera, Rollei]
-feature: ../images/459f5bfb03a18d22c77482218c65a65d.jpg
+feature: https://s2.loli.net/2024/07/23/UQV3astJ4mWL7Ap.jpg
 comments: ture
 ---
 
