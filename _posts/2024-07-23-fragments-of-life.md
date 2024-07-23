@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Rolleiflex 3.5F"
