@@ -1,14 +1,13 @@
 
 ---
 layout: post
-title: "fragments of life"
-date: 2024-07-23
-excerpt: 树影摇曳洒下稀碎的碎片
+title: "Rolleiflex 3.5F"
+date: 2024-04-20
+excerpt: 像是漂亮打回一个宇宙发来的球
 tags: [camera, Rollei]
 feature: https://s2.loli.net/2024/04/20/eZOJMHhyxmwti6N.jpg
 comments: ture
 ---
-
 
 ![Sony_DSC04311_20240417.jpg](https://s2.loli.net/2024/04/20/eZOJMHhyxmwti6N.jpg)
 
